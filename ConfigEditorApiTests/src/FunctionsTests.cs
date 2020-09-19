@@ -23,7 +23,7 @@ namespace ConfigEditorApi.src.Tests
             Functions functions = new Functions();
             string FileName = functions.GetAllFileName()[0];
             Assert.AreEqual(functions.GetConfigText("dsad.txt"), "File not found.");
-            Assert.IsNotNull(functions.GetConfigText(FileName), "File found");
+            Assert.AreNotEqual(functions.GetConfigText(FileName), "File not found.");
         }
     }
 }

@@ -7,6 +7,8 @@ using System.IO;
 using System.Drawing.Printing;
 using Microsoft.Extensions.Options;
 using System.Configuration;
+using System.Diagnostics.Contracts;
+using Newtonsoft.Json;
 
 namespace ConfigEditorApi.src
 {
@@ -37,13 +39,25 @@ namespace ConfigEditorApi.src
         {
             string dir = AppSettings.AppSetting["Configs.Dir"];
             string ConfigText;
-            if (File.Exists(dir + configName))
-                ConfigText = File.ReadAllText(dir + configName + ".json");
-            else
+            if (!File.Exists(dir + configName + ".json"))
                 ConfigText = "File not found.";
+            else
+                ConfigText = File.ReadAllText(dir + configName + ".json");
             return ConfigText;
 
 
         }
+        public string WriteConfig(object config, string configName)
+        {
+            string dir = AppSettings.AppSetting["Configs.Dir"];
+            string ConfigText = JsonConvert.SerializeObject(config);
+            if (File.Exists(dir + configName + ".json"))
+            {
+                File.WriteAllText(dir + configName + ".json", ConfigText);
+                return ("Configuration file: " + configName + " update success!");
+            }
+            return ("File not exists!");
+        }
+    
     }
 }

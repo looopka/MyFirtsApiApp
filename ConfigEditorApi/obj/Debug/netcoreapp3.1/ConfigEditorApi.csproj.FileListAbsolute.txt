@@ -19,8 +19,9 @@ C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.csproj.CoreCompileInputs.cache
-C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.csproj.CopyComplete
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\TestConfigs\config_crop_passport.json
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\TestConfigs\config_recognized_field.json
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.csproj.CoreCompileInputs.cache
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.MvcApplicationPartsAssemblyInfo.cache
