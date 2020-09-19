@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigEditorApi", "ConfigEditorApi\ConfigEditorApi.csproj", "{90D19158-03CC-4E1C-BBAF-31BF563157AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigEditorApiTests", "ConfigEditorApiTests\ConfigEditorApiTests.csproj", "{443CC1E3-5532-4042-B1C0-F83E3906261C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D19158-03CC-4E1C-BBAF-31BF563157AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D19158-03CC-4E1C-BBAF-31BF563157AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D19158-03CC-4E1C-BBAF-31BF563157AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D19158-03CC-4E1C-BBAF-31BF563157AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443CC1E3-5532-4042-B1C0-F83E3906261C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443CC1E3-5532-4042-B1C0-F83E3906261C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443CC1E3-5532-4042-B1C0-F83E3906261C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443CC1E3-5532-4042-B1C0-F83E3906261C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA85F637-060B-4E66-AD7D-4FBC8635EFD5}
+	EndGlobalSection
+EndGlobal
