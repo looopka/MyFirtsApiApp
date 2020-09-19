@@ -23,5 +23,10 @@ C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\TestConfigs\config_crop_passport.json
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\TestConfigs\config_recognized_field.json
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.csproj.CoreCompileInputs.cache
+C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\forpl\source\repos\ConfigEditorApi\ConfigEditorApi\obj\Debug\netcoreapp3.1\ConfigEditorApi.MvcApplicationPartsAssemblyInfo.cache
